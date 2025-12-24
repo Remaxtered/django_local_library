@@ -1,0 +1,14 @@
+# Text backup files
+*.bak
+
+# Database
+*.sqlite3
+
+venv/
+__pycache__/
+
+.vscode
+.idea
+.env
+git 
+media/
